@@ -30,12 +30,12 @@ const setUpDataBase = async () => {
       genre VARCHAR(25)
     )`);
 
-    await db.query(`CREATE TABLE IF NOT EXITS Album (
+    await db.query(`CREATE TABLE IF NOT EXISTS Album (
       id INT PRIMARY KEY auto_increment,
       name VARCHAR(25),
       year YEAR(4),
       artistId INT,
-      FOREIGN KEY (artistId) REFRENCES Artist(artistId)
+      FOREIGN KEY (artistId) REFERENCES Artist(id)
     )`)
 
     db.close();
