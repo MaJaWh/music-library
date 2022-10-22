@@ -33,7 +33,7 @@ const setUpDataBase = async () => {
     await db.query(`CREATE TABLE IF NOT EXITS Album (
       id INT PRIMARY KEY auto_increment,
       name VARCHAR(25),
-      year VARCHAR(25),
+      year YEAR(4),
       artistId INT,
       FOREIGN KEY (artistId) REFRENCES Artist(artistId)
     )`)
