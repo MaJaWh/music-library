@@ -7,6 +7,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 [![Downloads][download-badge]][download-url]
+[![LastCommit][commit-badge]][commit-url]
 
 <!-- PROJECT LOGO -->
 <h3 align="center">Marks Music Library</h3>
@@ -136,10 +137,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [download-badge]: https://img.shields.io/github/downloads/MaJaWh/music-library/total
 [download-url]: https://github.com/MaJaWh/music-library
+[commit-badge]: https://img.shields.io/github/last-commit/MaJAWh/music-library
+[commit-url]: https://github.com/MaJaWh/music-library
 
 /////////////////////////////////////////////////////
 
