@@ -6,7 +6,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-[![Downloads][downloads]]
+[![Downloads][downloads]][download-url]
 
 <!-- PROJECT LOGO -->
 <h3 align="center">Marks Music Library</h3>
@@ -152,6 +152,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [forks-url]: https://github.com/github_username/repo_name/network/members
 
 [downloads]: ![GitHub all releases](https://img.shields.io/github/downloads/MaJaWh/music-library/total)
+[download-url]: https://github.com/MaJaWh/music-library
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
