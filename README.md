@@ -20,7 +20,7 @@
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a> -->
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/MaJaWh/music-library">Report Bug</a>
     ·
     <!-- <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p> -->
