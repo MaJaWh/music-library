@@ -81,7 +81,7 @@ Build during the Backend module at ManchesterCodes. The Music library uses skill
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Please use the below to set of instructions to get your project up and running
 
 - npm
   ```sh
@@ -90,19 +90,18 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo into your chosen file
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+   <!-- 3. Enter your API in `config.js`
+      ```js
+      const API_KEY = 'ENTER YOUR API';
+      ``` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +121,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/MaJaWh/music-library)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,9 +141,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [download-url]: https://github.com/MaJaWh/music-library
 [commit-badge]: https://img.shields.io/github/last-commit/MaJAWh/music-library
 [commit-url]: https://github.com/MaJaWh/music-library
-
-/////////////////////////////////////////////////////
-
 [javascript-url]: https://www.javascript.com/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [node-shield]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
@@ -153,9 +149,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [express-url]: https://expressjs.com/
 [mysql-shield]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [mysql-url]: https://www.mysql.com/
-
-/////////////////////////////////////////////////////
-
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
