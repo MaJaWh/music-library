@@ -119,8 +119,6 @@ Project Link: [https://github.com/MaJaWh/music-library](https://github.com/MaJaW
 
 <!-- ACKNOWLEDGMENTS -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [download-badge]: https://img.shields.io/github/downloads/MaJaWh/music-library/total
