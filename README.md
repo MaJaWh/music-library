@@ -5,10 +5,10 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url] -->
-
+<div align="center">
 [![Downloads][download-badge]][download-url]
 [![LastCommit][commit-badge]][commit-url]
-
+</div>
 <!-- PROJECT LOGO -->
 <h3 align="center">Marks Music Library</h3>
 
