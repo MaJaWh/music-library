@@ -6,7 +6,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-[![Downloads][downloads]][download-url]
+[![Downloads][download-badge]][download-url]
 
 <!-- PROJECT LOGO -->
 <h3 align="center">Marks Music Library</h3>
@@ -138,6 +138,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[download-badge]: ![GitHub all releases](https://img.shields.io/github/downloads/MaJaWh/music-library/total)
+[download-url]: https://github.com/MaJaWh/music-library
+
+/////////////////////////////////////////////////////
+
 [javascript-url]: https://www.javascript.com/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [node-shield]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
@@ -150,9 +155,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
-
-[downloads]: ![GitHub all releases](https://img.shields.io/github/downloads/MaJaWh/music-library/total)
-[download-url]: https://github.com/MaJaWh/music-library
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
