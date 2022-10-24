@@ -9,26 +9,20 @@
 [![Stargazers][stars-shield]][stars-url]
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Mark Music Library</h3>
+<h3 align="center">Marks Music Library</h3>
 
   <p align="center">
     A music library built to apply MySQL and database skills to Express.js.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">View Demo</a> -->
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
+    <!-- <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p> -->
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -61,15 +55,7 @@
 
 ## About The Project
 
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/ImageOfCode.png" alt="Logo" width="80" height="80">
-  </a>
-  </div>
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Build during the Backend module at ManchesterCodes. The Music library uses skills learnt using MySql, Docker and Postman from previous projects and combines them with Express.js to build a working music library that can be built on by adding tables and albums.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,9 +77,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
