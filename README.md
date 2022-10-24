@@ -77,7 +77,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 - [![Java-script][javascript-shield]][javascript-url]
 - [![Node.js][node-shield]][node-url]
-- [![Express.js] [express-shield]][express-url]
+- [![Express.js][express-shield]][express-url]
 - [![Mysql][mysql-shield]][mysql-url]
 <!-- - [![Vue][vue.js]][vue-url]
 - [![Angular][angular.io]][angular-url]
