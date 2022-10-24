@@ -138,7 +138,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[download-badge]: ![GitHub all releases](https://img.shields.io/github/downloads/MaJaWh/music-library/total)
+[download-badge]: https://img.shields.io/github/downloads/MaJaWh/music-library/total
 [download-url]: https://github.com/MaJaWh/music-library
 
 /////////////////////////////////////////////////////
