@@ -84,7 +84,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - [![Svelte][svelte.dev]][svelte-url]
 - [![Laravel][laravel.com]][laravel-url]
 - [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![JQuery][jquery.com]][jquery-url] --> -->
+- [![JQuery][jquery.com]][jquery-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +199,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [node-url]: https://nodejs.org/en/
 [express-shield]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 [express-url]: https://expressjs.com/
-[mysql-shiled]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-shield]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [mysql-url]: https://www.mysql.com/
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
