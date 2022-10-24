@@ -76,13 +76,15 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 - [![Java-script][javascript-shield]][javascript-url]
-<!-- - [![React][react.js]][react-url]
-- [![Vue][vue.js]][vue-url]
+- [![Node.js][node-shield]][node-url]
+- [![Express.js] [express-shield]][express-url]
+- [![Mysql][mysql-shield]][mysql-url]
+<!-- - [![Vue][vue.js]][vue-url]
 - [![Angular][angular.io]][angular-url]
 - [![Svelte][svelte.dev]][svelte-url]
 - [![Laravel][laravel.com]][laravel-url]
 - [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![JQuery][jquery.com]][jquery-url] -->
+- [![JQuery][jquery.com]][jquery-url] --> -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,6 +195,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [javascript-url]: https://www.javascript.com/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[node-shield]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[node-url]: https://nodejs.org/en/
+[express-shield]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+[express-url]: https://expressjs.com/
+[mysql-shiled]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]: https://www.mysql.com/
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
